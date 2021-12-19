@@ -1,4 +1,4 @@
-package com.raus.shortUtils;
+package com.chai.shortUtils;
 
 import java.util.Arrays;
 import java.util.List;
